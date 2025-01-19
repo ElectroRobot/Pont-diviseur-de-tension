@@ -1,6 +1,6 @@
 # Pont diviseur de tension
 
-Ce repository enregistre l'ensemble des projet LTSpice XVII créé pour les deux travaux dirigés proposés par Electro Robot. 
+Ce repository enregistre l'ensemble des projets LTSpice XVII créés pour les deux travaux dirigés proposés par Electro Robot. 
 Plus de détails, vous pouvez vous faire référence à : <a href="https://electro-robot.com/les-activites/travaux-diriges-pont-diviseur-de-tension" rel="dofollow">Pont diviseur de tension</a>
 
 # C'est quoi l'apprentissage avec Electro-Robot ?
